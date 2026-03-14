@@ -1,6 +1,6 @@
 <div align="center">
 
-<div style="width: 100%; height: 250px; overflow: hidden; border-radius: 8px; margin-bottom: 15px;">
+<div style="width: 100%; height: 150px; overflow: hidden; border-radius: 8px; margin-bottom: 15px;">
   <img src="bladerunner2049.jpg" width="100%" style="margin-top: -100px;" alt="Blade Runner 2049 Aesthetic Cover" />
 </div>
 
