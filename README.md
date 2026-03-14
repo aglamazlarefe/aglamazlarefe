@@ -1,8 +1,8 @@
 <div align="center">
 
-<div style="width: 100%; height: 150px; overflow: hidden; border-radius: 8px; margin-bottom: 15px;">
-  <img src="bladerunner2049.jpg" width="100%" style="margin-top: -100px;" alt="Blade Runner 2049 Aesthetic Cover" />
-</div>
+<svg width="100%" height="200" viewBox="0 150 1200 400" xmlns="http://www.w3.org/2000/svg" style="border-radius: 8px; margin-bottom: 15px;">
+  <image href="bladerunner2049.jpg" width="1200" height="800" preserveAspectRatio="xMidYMid slice" />
+</svg>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+Developer&repeat=false&hide_cursor=true&duration=1" alt="AI Researcher and Developer" />
 
