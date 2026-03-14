@@ -2,7 +2,7 @@
 
 <img src="bladerunner2049.jpg" width="100%" alt="Blade Runner 2049 Aesthetic Cover" style="border-radius: 8px; margin-bottom: 15px;" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&color=FF9D00&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+Developer&repeat=false&hide_cursor=true&duration=1" alt="AI Researcher and Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+Developer&repeat=false&hide_cursor=true&duration=1" alt="AI Researcher and Developer" />
 
 <p align="center" style="font-size: 16px; color: #c9d1d9;">
   <i>A dedicated 12th-grade researcher at Aydın Fen Lisesi, architecting the next generation of network protocols through Deep Reinforcement Learning.</i>
