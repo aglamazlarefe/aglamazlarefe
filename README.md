@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="bladerunner2049.jpg" width="100%" height="300" alt="Blade Runner 2049 Aesthetic Cover" style="border-radius: 8px; margin-bottom: 15px; object-fit: cover;" />
+<div style="width: 100%; height: 250px; overflow: hidden; border-radius: 8px; margin-bottom: 15px;">
+  <img src="bladerunner2049.jpg" width="100%" style="margin-top: -100px;" alt="Blade Runner 2049 Aesthetic Cover" />
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+Developer&repeat=false&hide_cursor=true&duration=1" alt="AI Researcher and Developer" />
 
